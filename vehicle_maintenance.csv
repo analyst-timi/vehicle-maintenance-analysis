@@ -1,0 +1,501 @@
+Vehicle_ID,Vehicle_Model,Service_Date,Service_Type,Mechanic_Name,Cost
+1001,Chevrolet Equinox,2024-04-17,Battery Replacement,Chris Evans,244.88
+1002,Honda CR-V,2024-04-18,Headlight Replacement,Sarah Davis,363.55
+1003,Nissan Altima,2024-04-19,Wheel Alignment,Sarah Davis,480.49
+1004,Ford F-150,2024-04-20,Wheel Alignment,John Doe,437.6
+1005,Ford Ranger,2024-04-21,Headlight Replacement,Robert Johnson,263.57
+1006,Chevrolet Silverado,2024-04-22,Battery Replacement,Emily White,209.17
+1007,Toyota Camry,2024-04-23,Wheel Alignment,Emily White,191.84
+1008,Jeep Wrangler,2024-04-24,Fluid Flush,Michael Brown,409.34
+1009,Ford Explorer,2024-04-25,Transmission Fluid Change,Peter Jones,194.7
+1010,Toyota RAV4,2024-04-26,Brake Pad Replacement,Robert Johnson,416.89
+1011,Ford Ranger,2024-04-27,Engine Tune-up,Robert Johnson,259.92
+1012,Ford Explorer,2024-04-28,Battery Replacement,Maria Garcia,117.8
+1013,Jeep Wrangler,2024-04-29,Engine Tune-up,Robert Johnson,346.13
+1014,Ford F-150,2024-04-30,Brake Pad Replacement,Michael Brown,
+1015,Honda Accord,2024-05-01,Brake Inspection,John Doe,196.98
+1016,Honda CR-V,2024-05-02,Tire Rotation,Peter Jones,357.76
+1017,Ford Ranger,2024-05-03,Oil Change,John Doe,429.56
+1018,Subaru Outback,2024-05-04,Oil Change,Peter Jones,311.88
+1019,Ford Mustang,2024-05-05,Oil Change,Maria Garcia,112.95
+1020,Subaru Outback,2024-05-06,Transmission Fluid Change,Michael Brown,
+1021,Toyota RAV4,2024-05-07,Spark Plug Replacement,Sarah Davis,171.42
+1022,Nissan Altima,2024-05-08,Spark Plug Replacement,John Doe,349.96
+1023,Chevrolet Equinox,2024-05-09,Fluid Flush,Emily White,393.5
+1024,Ford Escape,2024-05-10,Starter Replacement,Emily White,472.31
+1025,Subaru Crosstrek,2024-05-11,Fluid Flush,,201.45
+1026,Ford Ranger,2024-05-12,Headlight Replacement,Sarah Davis,258.85
+1027,Tesla Model 3,2024-05-13,Starter Replacement,Michael Brown,402.55
+1028,Chevrolet Silverado,2024-05-14,Oil Change,Robert Johnson,281.61
+1029,Tesla Model 3,2024-05-15,Headlight Replacement,Chris Evans,110.52
+1030,Chevrolet Equinox,2024-05-16,Wheel Alignment,Maria Garcia,268.0
+1031,Honda Accord,2024-05-17,Battery Replacement,Maria Garcia,205.28
+1032,Ram 1500,2024-05-18,Transmission Fluid Change,Chris Evans,399.92
+1033,Ford Explorer,2024-05-19,Fluid Flush,Robert Johnson,111.79
+1034,Ford Ranger,2024-05-20,Brake Pad Replacement,Peter Jones,384.96
+1035,Ford Mustang,2024-05-21,Oil Change,Robert Johnson,34.94
+1036,Chevrolet Silverado,2024-05-22,Battery Replacement,John Doe,265.14
+1037,Subaru Outback,2024-05-23,Tire Rotation,John Doe,161.71
+1038,Chevrolet Equinox,2024-05-24,Starter Replacement,John Doe,55.22
+1039,Ford Mustang,2024-05-25,Oil Change,Maria Garcia,436.57
+1040,Chevrolet Equinox,2024-05-26,Headlight Replacement,Peter Jones,205.33
+1041,Honda Accord,2024-05-27,Oil Change,Maria Garcia,94.07
+1042,Subaru Crosstrek,2024-05-28,Brake Pad Replacement,Maria Garcia,379.52
+1043,Nissan Altima,2024-05-29,Transmission Fluid Change,Peter Jones,454.2
+1044,Ram 1500,2024-05-30,Battery Replacement,John Doe,328.28
+1045,Honda Pilot,2024-05-31,Engine Tune-up,David Lee,328.19
+1046,Tesla Model 3,2024-06-01,Starter Replacement,Michael Brown,482.64
+1047,Subaru Crosstrek,2024-06-02,Fluid Flush,Maria Garcia,471.77
+1048,Ford Mustang,2024-06-03,Starter Replacement,Emily White,174.79
+1049,Ram 1500,2024-06-04,Fluid Flush,Jane Smith,488.25
+1050,Jeep Wrangler,2024-06-05,Fluid Flush,Jane Smith,301.04
+1051,Ford Mustang,2024-06-06,Fluid Flush,David Lee,276.12
+1052,Chevrolet Silverado,2024-06-07,Wheel Alignment,John Doe,85.43
+1053,Toyota Camry,2024-06-08,Tire Rotation,David Lee,273.94
+1054,Ram 1500,2024-06-09,Spark Plug Replacement,Jane Smith,413.23
+1055,Ford Escape,2024-06-10,Brake Inspection,Jane Smith,286.64
+1056,Ford Explorer,2024-06-11,Starter Replacement,Sarah Davis,297.18
+1057,Toyota RAV4,2024-06-12,Oil Change,David Lee,254.43
+1058,Tesla Model 3,2024-06-13,Fluid Flush,Maria Garcia,123.11
+1059,Ford Ranger,2024-06-14,Headlight Replacement,Chris Evans,466.1
+1060,Ford Explorer,2024-06-15,Fluid Flush,Maria Garcia,277.39
+1061,Ford Escape,2024-06-16,Headlight Replacement,Chris Evans,492.82
+1062,Jeep Wrangler,2024-06-17,Wheel Alignment,Maria Garcia,100.25
+1063,Nissan Altima,2024-06-18,Brake Pad Replacement,Robert Johnson,73.73
+1064,Jeep Wrangler,2024-06-19,Fluid Flush,Maria Garcia,75.27
+1065,Jeep Wrangler,2024-06-20,Tire Rotation,Emily White,389.61
+1066,Chevrolet Silverado,2024-06-21,Transmission Fluid Change,John Doe,382.22
+1067,Subaru Crosstrek,2024-06-22,Headlight Replacement,Michael Brown,225.34
+1068,Ford Ranger,2024-06-23,Battery Replacement,Michael Brown,123.68
+1069,Subaru Outback,2024-06-24,Oil Change,Emily White,178.2
+1070,Ford F-150,2024-06-25,Headlight Replacement,John Doe,453.57
+1071,Tesla Model 3,2024-06-26,Tire Rotation,Robert Johnson,192.12
+1072,Chevrolet Equinox,2024-06-27,Tire Rotation,John Doe,80.16
+1073,Toyota Camry,2024-06-28,Brake Inspection,Jane Smith,243.38
+1074,Honda Pilot,2024-06-29,Brake Inspection,Emily White,389.78
+1075,Honda Civic,2024-06-30,Starter Replacement,Jane Smith,331.02
+1076,Tesla Model 3,2024-07-01,Engine Tune-up,Maria Garcia,404.68
+1077,Ford F-150,2024-07-02,Brake Pad Replacement,David Lee,87.25
+1078,Toyota RAV4,2024-07-03,Fluid Flush,Peter Jones,440.44
+1079,Jeep Wrangler,2024-07-04,Tire Rotation,Chris Evans,103.11
+1080,Chevrolet Equinox,2024-07-05,Fluid Flush,Peter Jones,380.14
+1081,Tesla Model 3,2024-07-06,Brake Pad Replacement,Peter Jones,158.25
+1082,Chevrolet Equinox,2024-07-07,Battery Replacement,Michael Brown,310.66
+1083,Ram 1500,2024-07-08,Starter Replacement,Michael Brown,379.65
+1084,Ford Escape,2024-07-09,Brake Pad Replacement,Emily White,364.46
+1085,Ford Ranger,2024-07-10,Wheel Alignment,Jane Smith,148.22
+1086,Tesla Model 3,2024-07-11,Battery Replacement,Emily White,369.46
+1087,Nissan Altima,2024-07-12,Spark Plug Replacement,Maria Garcia,280.23
+1088,Honda Civic,2024-07-13,Spark Plug Replacement,John Doe,269.9
+1089,Ram 1500,2024-07-14,Tire Rotation,Chris Evans,31.31
+1090,Subaru Outback,2024-07-15,Battery Replacement,David Lee,447.3
+1091,Chevrolet Equinox,2024-07-16,Tire Rotation,Chris Evans,77.07
+1092,Subaru Crosstrek,2024-07-17,Headlight Replacement,John Doe,176.76
+1093,Subaru Crosstrek,2024-07-18,Brake Inspection,Chris Evans,347.5
+1094,Subaru Outback,2024-07-19,Oil Change,Peter Jones,245.15
+1095,Chevrolet Silverado,2024-07-20,Fluid Flush,Sarah Davis,295.65
+1096,Chevrolet Equinox,2024-07-21,Spark Plug Replacement,Robert Johnson,88.6
+1097,Subaru Outback,2024-07-22,Tire Rotation,John Doe,98.95
+1098,Honda Civic,2024-07-23,Brake Pad Replacement,Jane Smith,91.48
+1099,Toyota RAV4,2024-07-24,Brake Inspection,Maria Garcia,190.71
+1100,Tesla Model 3,2024-07-25,Headlight Replacement,Emily White,149.4
+1101,Tesla Model 3,2024-07-26,Transmission Fluid Change,Sarah Davis,429.61
+1102,Jeep Wrangler,2024-07-27,Fluid Flush,Sarah Davis,104.15
+1103,Ford Mustang,2024-07-28,Fluid Flush,Michael Brown,424.7
+1104,Ram 1500,2024-07-29,Starter Replacement,Michael Brown,263.39
+1105,Honda Pilot,2024-07-30,Spark Plug Replacement,Maria Garcia,462.3
+1106,Honda CR-V,2024-07-31,Starter Replacement,Peter Jones,310.84
+1107,Nissan Altima,2024-08-01,Engine Tune-up,David Lee,449.72
+1108,Nissan Altima,2024-08-02,Fluid Flush,Emily White,408.26
+1109,Tesla Model 3,2024-08-03,Spark Plug Replacement,Maria Garcia,446.25
+1110,Honda Pilot,2024-08-04,Battery Replacement,Robert Johnson,150.28
+1111,Jeep Wrangler,2024-08-05,Oil Change,Jane Smith,399.45
+1112,Ram 1500,2024-08-06,Oil Change,Maria Garcia,475.94
+1113,Subaru Outback,2024-08-07,Engine Tune-up,David Lee,446.22
+1114,Nissan Altima,2024-08-08,Starter Replacement,Chris Evans,44.32
+1115,Honda Accord,2024-08-09,Spark Plug Replacement,Sarah Davis,79.66
+1116,Honda Civic,2024-08-10,Tire Rotation,Michael Brown,453.38
+1117,Chevrolet Silverado,2024-08-11,Brake Pad Replacement,David Lee,217.64
+1118,Jeep Wrangler,2024-08-12,Tire Rotation,Michael Brown,69.55
+1119,Nissan Altima,2024-08-13,Fluid Flush,John Doe,187.55
+1120,Subaru Crosstrek,2024-08-14,Spark Plug Replacement,Robert Johnson,217.82
+1121,Honda Pilot,2024-08-15,Fluid Flush,Emily White,238.55
+1122,Jeep Wrangler,2024-08-16,Headlight Replacement,Maria Garcia,147.85
+1123,Chevrolet Equinox,2024-08-17,Tire Rotation,David Lee,389.67
+1124,Nissan Titan,2024-08-18,Wheel Alignment,,191.38
+1125,Ford F-150,2024-08-19,Starter Replacement,Peter Jones,265.18
+1126,Ford Ranger,2024-08-20,Battery Replacement,Maria Garcia,143.08
+1127,Ford Escape,2024-08-21,Transmission Fluid Change,Robert Johnson,272.2
+1128,Toyota RAV4,2024-08-22,Battery Replacement,John Doe,294.39
+1129,Subaru Outback,2024-08-23,Brake Inspection,Chris Evans,376.29
+1130,Chevrolet Equinox,2024-08-24,Brake Inspection,Jane Smith,329.88
+1131,Ford F-150,2024-08-25,Headlight Replacement,Emily White,327.34
+1132,Ford F-150,2024-08-26,Fluid Flush,Sarah Davis,172.17
+1133,Subaru Outback,2024-08-27,Brake Inspection,John Doe,64.9
+1134,Jeep Wrangler,2024-08-28,Brake Pad Replacement,Robert Johnson,404.15
+1135,Honda Pilot,2024-08-29,Starter Replacement,Peter Jones,430.0
+1136,Honda CR-V,2024-08-30,Tire Rotation,Chris Evans,478.6
+1137,Subaru Crosstrek,2024-08-31,Brake Pad Replacement,Chris Evans,477.98
+1138,Nissan Titan,2024-09-01,Fluid Flush,Michael Brown,253.68
+1139,Honda Accord,2024-09-02,Starter Replacement,Sarah Davis,381.51
+1140,Nissan Titan,2024-09-03,Brake Pad Replacement,John Doe,177.89
+1141,Tesla Model 3,2024-09-04,Spark Plug Replacement,David Lee,81.34
+1142,Jeep Wrangler,2024-09-05,Brake Pad Replacement,Jane Smith,260.46
+1143,Chevrolet Silverado,2024-09-06,Tire Rotation,Robert Johnson,224.07
+1144,Subaru Crosstrek,2024-09-07,Wheel Alignment,Chris Evans,154.66
+1145,Ford F-150,2024-09-08,,Michael Brown,131.13
+1146,Honda CR-V,2024-09-09,Brake Inspection,David Lee,138.48
+1147,Chevrolet Silverado,2024-09-10,Tire Rotation,Peter Jones,322.58
+1148,Honda Accord,2024-09-11,Fluid Flush,Chris Evans,457.97
+1149,Ram 1500,2024-09-12,Fluid Flush,Maria Garcia,222.22
+1150,Ford Escape,2024-09-13,Engine Tune-up,David Lee,34.69
+1151,Ford F-150,2024-09-14,Starter Replacement,David Lee,48.69
+1152,Subaru Crosstrek,2024-09-15,Brake Inspection,Chris Evans,339.79
+1153,Ford Escape,2024-09-16,Transmission Fluid Change,Emily White,441.36
+1154,Subaru Crosstrek,2024-09-17,Tire Rotation,John Doe,224.28
+1155,Toyota RAV4,2024-09-18,Spark Plug Replacement,Sarah Davis,495.24
+1156,Honda Civic,2024-09-19,Tire Rotation,John Doe,198.5
+1157,Subaru Outback,2024-09-20,Oil Change,David Lee,467.32
+1158,Subaru Crosstrek,2024-09-21,Oil Change,Peter Jones,206.74
+1159,Honda Accord,2024-09-22,Battery Replacement,Emily White,233.59
+1160,Honda Civic,2024-09-23,Brake Pad Replacement,Emily White,376.23
+1161,Honda Pilot,2024-09-24,Fluid Flush,Chris Evans,366.0
+1162,Toyota RAV4,2024-09-25,Oil Change,Michael Brown,457.5
+1163,Subaru Crosstrek,2024-09-26,Engine Tune-up,Chris Evans,344.96
+1164,Subaru Crosstrek,2024-09-27,Battery Replacement,Peter Jones,357.6
+1165,Tesla Model 3,2024-09-28,Starter Replacement,David Lee,430.58
+1166,Chevrolet Equinox,2024-09-29,Starter Replacement,Jane Smith,275.28
+1167,Ford F-150,2024-09-30,Engine Tune-up,John Doe,260.19
+1168,Ford Explorer,2024-10-01,Oil Change,Emily White,436.29
+1169,Ford Explorer,2024-10-02,Fluid Flush,Peter Jones,452.13
+1170,Chevrolet Silverado,2024-10-03,Battery Replacement,John Doe,229.39
+1171,Subaru Crosstrek,2024-10-04,Transmission Fluid Change,David Lee,367.46
+1172,Tesla Model 3,2024-10-05,Transmission Fluid Change,Emily White,184.54
+1173,Ford Escape,2024-10-06,Transmission Fluid Change,Emily White,146.57
+1174,Ram 1500,2024-10-07,Spark Plug Replacement,Peter Jones,118.86
+1175,Toyota RAV4,2024-10-08,Brake Inspection,John Doe,471.88
+1176,Chevrolet Equinox,2024-10-09,Headlight Replacement,Michael Brown,
+1177,Ford F-150,2024-10-10,,Sarah Davis,156.28
+1178,Ford Explorer,2024-10-11,Headlight Replacement,Sarah Davis,340.59
+1179,Jeep Wrangler,2024-10-12,Brake Pad Replacement,David Lee,499.37
+1180,Chevrolet Equinox,2024-10-13,Fluid Flush,David Lee,127.39
+1181,Ford Explorer,2024-10-14,Spark Plug Replacement,David Lee,471.68
+1182,Chevrolet Equinox,2024-10-15,Headlight Replacement,Sarah Davis,367.04
+1183,Honda Pilot,2024-10-16,Oil Change,Sarah Davis,59.77
+1184,Subaru Crosstrek,2024-10-17,Wheel Alignment,Robert Johnson,421.86
+1185,Chevrolet Silverado,2024-10-18,Brake Pad Replacement,Peter Jones,215.16
+1186,Honda Accord,2024-10-19,Battery Replacement,Peter Jones,157.97
+1187,Jeep Wrangler,2024-10-20,Brake Inspection,David Lee,38.94
+1188,Ford Mustang,2024-10-21,Headlight Replacement,Emily White,402.81
+1189,Honda Civic,2024-10-22,Starter Replacement,Michael Brown,415.44
+1190,Honda Accord,2024-10-23,Oil Change,Chris Evans,49.54
+1191,Subaru Crosstrek,2024-10-24,Wheel Alignment,John Doe,40.23
+1192,Nissan Titan,2024-10-25,Transmission Fluid Change,John Doe,335.7
+1193,Honda Pilot,2024-10-26,Tire Rotation,John Doe,317.81
+1194,Tesla Model 3,2024-10-27,Brake Inspection,Emily White,356.53
+1195,Ram 1500,2024-10-28,Spark Plug Replacement,Robert Johnson,363.14
+1196,Chevrolet Equinox,2024-10-29,Oil Change,Chris Evans,331.21
+1197,Honda Accord,2024-10-30,Headlight Replacement,David Lee,432.03
+1198,Ford Escape,2024-10-31,Engine Tune-up,Robert Johnson,492.37
+1199,Honda Civic,2024-11-01,Oil Change,Sarah Davis,406.26
+1200,Ford Mustang,2024-11-02,Starter Replacement,Michael Brown,147.56
+1201,Subaru Outback,2024-11-03,Starter Replacement,Jane Smith,450.82
+1202,Ford Mustang,2024-11-04,Starter Replacement,John Doe,151.78
+1203,Ram 1500,2024-11-05,Oil Change,Robert Johnson,363.03
+1204,Ram 1500,2024-11-06,Brake Inspection,Robert Johnson,224.42
+1205,Nissan Titan,2024-11-07,Fluid Flush,Emily White,158.29
+1206,Subaru Outback,2024-11-08,Transmission Fluid Change,John Doe,107.16
+1207,Ford Explorer,2024-11-09,Battery Replacement,David Lee,330.6
+1208,Toyota Camry,2024-11-10,Brake Inspection,Chris Evans,354.1
+1209,Subaru Crosstrek,2024-11-11,Engine Tune-up,Sarah Davis,378.93
+1210,Honda Accord,2024-11-12,Brake Pad Replacement,Emily White,356.45
+1211,Jeep Wrangler,2024-11-13,Brake Pad Replacement,Jane Smith,239.45
+1212,Honda CR-V,2024-11-14,Starter Replacement,Emily White,354.33
+1213,Ford Explorer,2024-11-15,Headlight Replacement,Chris Evans,346.07
+1214,Honda Civic,2024-11-16,Starter Replacement,Peter Jones,482.42
+1215,Chevrolet Equinox,2024-11-17,Battery Replacement,David Lee,318.21
+1216,Ford Escape,2024-11-18,Battery Replacement,David Lee,87.53
+1217,Honda Civic,2024-11-19,Fluid Flush,Maria Garcia,478.61
+1218,Ram 1500,2024-11-20,Tire Rotation,John Doe,392.67
+1219,Ford Mustang,2024-11-21,Wheel Alignment,Robert Johnson,412.39
+1220,Honda Pilot,2024-11-22,Spark Plug Replacement,Maria Garcia,197.43
+1221,Toyota Camry,2024-11-23,Wheel Alignment,Robert Johnson,459.01
+1222,Honda Accord,2024-11-24,Brake Inspection,Jane Smith,311.93
+1223,Ford Explorer,2024-11-25,Oil Change,John Doe,303.03
+1224,Nissan Altima,2024-11-26,Brake Pad Replacement,Peter Jones,174.22
+1225,Jeep Wrangler,2024-11-27,Battery Replacement,Emily White,75.01
+1226,Toyota RAV4,2024-11-28,Headlight Replacement,Michael Brown,144.17
+1227,Honda Accord,2024-11-29,Brake Pad Replacement,Maria Garcia,190.02
+1228,Nissan Titan,2024-11-30,Wheel Alignment,Maria Garcia,158.3
+1229,Chevrolet Silverado,2024-12-01,Fluid Flush,John Doe,335.71
+1230,Chevrolet Silverado,2024-12-02,Starter Replacement,John Doe,470.04
+1231,Honda Civic,2024-12-03,Starter Replacement,David Lee,423.96
+1232,Ram 1500,2024-12-04,Oil Change,John Doe,164.67
+1233,Nissan Titan,2024-12-05,Oil Change,Chris Evans,472.38
+1234,Chevrolet Equinox,2024-12-06,Headlight Replacement,Peter Jones,295.25
+1235,Chevrolet Equinox,2024-12-07,Headlight Replacement,Chris Evans,142.03
+1236,Ford Ranger,2024-12-08,Transmission Fluid Change,Michael Brown,116.49
+1237,Ford Explorer,2024-12-09,Brake Inspection,Chris Evans,232.76
+1238,Honda Pilot,2024-12-10,Tire Rotation,Robert Johnson,490.81
+1239,Chevrolet Silverado,2024-12-11,Battery Replacement,Peter Jones,406.08
+1240,Ford Escape,2024-12-12,Battery Replacement,Chris Evans,114.57
+1241,Tesla Model 3,2024-12-13,Headlight Replacement,Jane Smith,
+1242,Chevrolet Silverado,2024-12-14,Fluid Flush,Jane Smith,300.01
+1243,Ford Ranger,2024-12-15,Transmission Fluid Change,Jane Smith,314.91
+1244,Honda CR-V,2024-12-16,Fluid Flush,Emily White,125.61
+1245,Ford Ranger,2024-12-17,Brake Pad Replacement,Michael Brown,440.56
+1246,Ford Mustang,2024-12-18,Tire Rotation,Peter Jones,190.27
+1247,Honda Accord,2024-12-19,Oil Change,Peter Jones,327.04
+1248,Honda Civic,2024-12-20,Headlight Replacement,John Doe,439.04
+1249,Chevrolet Silverado,2024-12-21,Brake Inspection,Jane Smith,43.19
+1250,Toyota RAV4,2024-12-22,Transmission Fluid Change,Peter Jones,206.89
+1251,Chevrolet Silverado,2024-12-23,Wheel Alignment,Chris Evans,306.68
+1252,Chevrolet Equinox,2024-12-24,Wheel Alignment,Emily White,103.92
+1253,Honda Pilot,2024-12-25,Transmission Fluid Change,John Doe,440.75
+1254,Subaru Outback,2024-12-26,Oil Change,Jane Smith,215.91
+1255,Nissan Altima,2024-12-27,Starter Replacement,Jane Smith,125.13
+1256,Chevrolet Equinox,2024-12-28,Wheel Alignment,John Doe,194.44
+1257,Toyota Camry,2024-12-29,Tire Rotation,Robert Johnson,412.39
+1258,Nissan Titan,2024-12-30,Oil Change,Robert Johnson,213.72
+1259,Ram 1500,2024-12-31,Starter Replacement,Sarah Davis,364.45
+1260,Toyota Camry,2025-01-01,Engine Tune-up,Sarah Davis,93.89
+1261,Ford F-150,2025-01-02,Spark Plug Replacement,Peter Jones,33.22
+1262,Ford Escape,2025-01-03,Headlight Replacement,Sarah Davis,320.98
+1263,Ford Ranger,2025-01-04,Starter Replacement,Emily White,394.51
+1264,Nissan Titan,2025-01-05,Wheel Alignment,John Doe,230.56
+1265,Ram 1500,2025-01-06,Fluid Flush,Robert Johnson,135.84
+1266,Nissan Titan,2025-01-07,Engine Tune-up,Emily White,199.74
+1267,Ford Explorer,2025-01-08,Oil Change,David Lee,155.39
+1268,Chevrolet Silverado,2025-01-09,Brake Pad Replacement,Jane Smith,52.71
+1269,Honda Accord,2025-01-10,Brake Pad Replacement,Michael Brown,386.04
+1270,Honda Pilot,2025-01-11,Oil Change,Sarah Davis,441.0
+1271,Chevrolet Silverado,2025-01-12,Headlight Replacement,Emily White,83.91
+1272,Ford Explorer,2025-01-13,Brake Inspection,Robert Johnson,454.82
+1273,Toyota Camry,2025-01-14,Battery Replacement,John Doe,316.36
+1274,Jeep Wrangler,2025-01-15,Transmission Fluid Change,Sarah Davis,488.6
+1275,Ford F-150,2025-01-16,Oil Change,Emily White,200.6
+1276,Subaru Crosstrek,2025-01-17,Spark Plug Replacement,John Doe,283.93
+1277,Ford Escape,2025-01-18,Wheel Alignment,Emily White,496.49
+1278,Nissan Altima,2025-01-19,Wheel Alignment,Emily White,453.87
+1279,Ford Explorer,2025-01-20,Brake Inspection,Peter Jones,336.97
+1280,Tesla Model 3,2025-01-21,Oil Change,Emily White,257.8
+1281,Honda CR-V,2025-01-22,Oil Change,John Doe,192.19
+1282,Ford Explorer,2025-01-23,Brake Inspection,Robert Johnson,475.69
+1283,Subaru Outback,2025-01-24,Spark Plug Replacement,,369.99
+1284,Chevrolet Silverado,2025-01-25,Battery Replacement,,425.21
+1285,Chevrolet Equinox,2025-01-26,Fluid Flush,Robert Johnson,428.08
+1286,Nissan Altima,2025-01-27,Wheel Alignment,Chris Evans,423.14
+1287,Honda Accord,2025-01-28,Starter Replacement,Peter Jones,146.0
+1288,Ford Escape,2025-01-29,Transmission Fluid Change,Robert Johnson,358.12
+1289,Nissan Titan,2025-01-30,,,332.01
+1290,Honda Accord,2025-01-31,Engine Tune-up,Chris Evans,274.22
+1291,Ford Explorer,2025-02-01,Spark Plug Replacement,Robert Johnson,386.55
+1292,Tesla Model 3,2025-02-02,Wheel Alignment,Peter Jones,337.3
+1293,Toyota RAV4,2025-02-03,Brake Inspection,Peter Jones,447.25
+1294,Honda Accord,2025-02-04,Fluid Flush,Maria Garcia,81.07
+1295,Honda Pilot,2025-02-05,Oil Change,Robert Johnson,36.77
+1296,Ford Explorer,2025-02-06,Brake Pad Replacement,Sarah Davis,401.22
+1297,Toyota Camry,2025-02-07,Wheel Alignment,Chris Evans,131.13
+1298,Jeep Wrangler,2025-02-08,Wheel Alignment,John Doe,105.31
+1299,Nissan Titan,2025-02-09,Engine Tune-up,Robert Johnson,260.96
+1300,Chevrolet Equinox,2025-02-10,Brake Inspection,Maria Garcia,104.89
+1301,Ram 1500,2025-02-11,Spark Plug Replacement,Chris Evans,102.04
+1302,Ford Mustang,2025-02-12,Brake Pad Replacement,Jane Smith,280.44
+1303,Ford Explorer,2025-02-13,Fluid Flush,David Lee,406.9
+1304,Subaru Crosstrek,2025-02-14,Spark Plug Replacement,Peter Jones,37.25
+1305,Honda CR-V,2025-02-15,Spark Plug Replacement,Chris Evans,61.13
+1306,Honda CR-V,2025-02-16,Transmission Fluid Change,Robert Johnson,376.09
+1307,Honda Pilot,2025-02-17,Fluid Flush,Jane Smith,285.97
+1308,Subaru Outback,2025-02-18,Spark Plug Replacement,Jane Smith,146.75
+1309,Subaru Outback,2025-02-19,Battery Replacement,Michael Brown,111.65
+1310,Ford Ranger,2025-02-20,Brake Inspection,Jane Smith,73.0
+1311,Ford Escape,2025-02-21,Engine Tune-up,Robert Johnson,112.57
+1312,Ram 1500,2025-02-22,Brake Pad Replacement,Jane Smith,69.89
+1313,Ram 1500,2025-02-23,Spark Plug Replacement,Chris Evans,485.41
+1314,Jeep Wrangler,2025-02-24,Battery Replacement,Robert Johnson,43.85
+1315,Ford Escape,2025-02-25,Fluid Flush,Emily White,493.7
+1316,Tesla Model 3,2025-02-26,Battery Replacement,Robert Johnson,404.4
+1317,Chevrolet Equinox,2025-02-27,Headlight Replacement,Robert Johnson,53.46
+1318,Ford F-150,2025-02-28,Battery Replacement,Sarah Davis,332.66
+1319,Subaru Outback,2025-03-01,Engine Tune-up,Sarah Davis,275.83
+1320,Toyota RAV4,2025-03-02,Transmission Fluid Change,Jane Smith,227.66
+1321,Ford Ranger,2025-03-03,Fluid Flush,Sarah Davis,205.48
+1322,Ford Ranger,2025-03-04,Oil Change,Chris Evans,403.56
+1323,Ford Escape,2025-03-05,Engine Tune-up,Chris Evans,388.61
+1324,Subaru Outback,2025-03-06,Tire Rotation,Peter Jones,416.73
+1325,Nissan Altima,2025-03-07,Brake Inspection,Jane Smith,281.47
+1326,Nissan Titan,2025-03-08,Battery Replacement,Emily White,380.29
+1327,Subaru Crosstrek,2025-03-09,Brake Inspection,Emily White,135.19
+1328,Ram 1500,2025-03-10,Battery Replacement,Robert Johnson,258.4
+1329,Ford Mustang,2025-03-11,Brake Pad Replacement,Maria Garcia,486.44
+1330,Nissan Titan,2025-03-12,Brake Pad Replacement,Chris Evans,133.67
+1331,Ford Explorer,2025-03-13,Spark Plug Replacement,Jane Smith,39.22
+1332,Toyota Camry,2025-03-14,Tire Rotation,Maria Garcia,499.99
+1333,Subaru Outback,2025-03-15,Starter Replacement,David Lee,250.23
+1334,Honda Civic,2025-03-16,Brake Pad Replacement,Chris Evans,404.47
+1335,Honda Pilot,2025-03-17,Fluid Flush,Michael Brown,125.26
+1336,Subaru Outback,2025-03-18,Oil Change,Michael Brown,417.59
+1337,Honda Civic,2025-03-19,Brake Pad Replacement,Peter Jones,484.08
+1338,Jeep Wrangler,2025-03-20,Wheel Alignment,Jane Smith,358.47
+1339,Subaru Outback,2025-03-21,Headlight Replacement,Maria Garcia,392.28
+1340,Ram 1500,2025-03-22,Tire Rotation,Jane Smith,83.75
+1341,Ram 1500,2025-03-23,Brake Inspection,Chris Evans,349.26
+1342,Jeep Wrangler,2025-03-24,Starter Replacement,Sarah Davis,495.47
+1343,Ford Ranger,2025-03-25,Starter Replacement,Chris Evans,440.12
+1344,Honda CR-V,2025-03-26,Spark Plug Replacement,Peter Jones,235.65
+1345,Subaru Crosstrek,2025-03-27,Brake Pad Replacement,Jane Smith,439.2
+1346,Ford F-150,2025-03-28,Starter Replacement,Chris Evans,173.47
+1347,Chevrolet Silverado,2025-03-29,Engine Tune-up,Sarah Davis,100.28
+1348,Tesla Model 3,2025-03-30,Oil Change,Michael Brown,277.9
+1349,Subaru Outback,2025-03-31,Brake Inspection,Chris Evans,142.99
+1350,Ford Mustang,2025-04-01,Oil Change,David Lee,139.03
+1351,Honda Accord,2025-04-02,Fluid Flush,Sarah Davis,271.89
+1352,Chevrolet Silverado,2025-04-03,Battery Replacement,Peter Jones,317.84
+1353,Honda CR-V,2025-04-04,Oil Change,Peter Jones,102.13
+1354,Chevrolet Silverado,2025-04-05,Wheel Alignment,Peter Jones,383.11
+1355,Honda Accord,2025-04-06,Tire Rotation,Chris Evans,333.64
+1356,Ford Explorer,2025-04-07,Spark Plug Replacement,Sarah Davis,349.09
+1357,Ford Explorer,2025-04-08,Spark Plug Replacement,David Lee,446.47
+1358,Subaru Crosstrek,2025-04-09,Starter Replacement,Michael Brown,477.37
+1359,Jeep Wrangler,2025-04-10,Wheel Alignment,Sarah Davis,38.19
+1360,Toyota RAV4,2025-04-11,Spark Plug Replacement,Sarah Davis,80.4
+1361,Tesla Model 3,2025-04-12,Oil Change,Peter Jones,372.29
+1362,Tesla Model 3,2025-04-13,Wheel Alignment,Chris Evans,253.93
+1363,Toyota RAV4,2025-04-14,Brake Pad Replacement,Emily White,264.38
+1364,Toyota Camry,2025-04-15,Wheel Alignment,Robert Johnson,69.07
+1365,Ford Explorer,2025-04-16,Brake Inspection,Sarah Davis,232.71
+1366,Ford Explorer,2025-04-17,Brake Pad Replacement,Maria Garcia,319.55
+1367,Nissan Altima,2025-04-18,Wheel Alignment,John Doe,185.96
+1368,Chevrolet Equinox,2025-04-19,Fluid Flush,Michael Brown,262.63
+1369,Ram 1500,2025-04-20,Brake Inspection,Peter Jones,139.81
+1370,Ford Escape,2025-04-21,Starter Replacement,Peter Jones,110.03
+1371,Subaru Outback,2025-04-22,Oil Change,Sarah Davis,449.47
+1372,Subaru Crosstrek,2025-04-23,Spark Plug Replacement,Emily White,210.62
+1373,Nissan Titan,2025-04-24,Transmission Fluid Change,Sarah Davis,284.97
+1374,Chevrolet Equinox,2025-04-25,Oil Change,Jane Smith,247.16
+1375,Subaru Outback,2025-04-26,Engine Tune-up,Jane Smith,222.44
+1376,Subaru Outback,2025-04-27,Spark Plug Replacement,Jane Smith,264.65
+1377,Ford Escape,2025-04-28,Starter Replacement,Robert Johnson,219.79
+1378,Honda Pilot,2025-04-29,Wheel Alignment,Chris Evans,48.11
+1379,Chevrolet Equinox,2025-04-30,Battery Replacement,David Lee,31.23
+1380,Honda CR-V,2025-05-01,Engine Tune-up,Emily White,410.2
+1381,Subaru Crosstrek,2025-05-02,Transmission Fluid Change,Peter Jones,382.84
+1382,Ram 1500,2025-05-03,Fluid Flush,Chris Evans,246.86
+1383,Honda CR-V,2025-05-04,Brake Pad Replacement,Sarah Davis,231.48
+1384,Ford Mustang,2025-05-05,Tire Rotation,Jane Smith,402.45
+1385,Ford Escape,2025-05-06,Brake Inspection,Maria Garcia,202.06
+1386,Honda Pilot,2025-05-07,Battery Replacement,John Doe,265.37
+1387,Jeep Wrangler,2025-05-08,Wheel Alignment,Peter Jones,484.39
+1388,Chevrolet Silverado,2025-05-09,Transmission Fluid Change,Maria Garcia,435.24
+1389,Nissan Titan,2025-05-10,Engine Tune-up,Robert Johnson,310.25
+1390,Honda Civic,2025-05-11,Oil Change,Robert Johnson,97.1
+1391,Subaru Crosstrek,2025-05-12,Brake Inspection,John Doe,78.57
+1392,Ford F-150,2025-05-13,Oil Change,Peter Jones,330.09
+1393,Jeep Wrangler,2025-05-14,Tire Rotation,Emily White,311.45
+1394,Honda Civic,2025-05-15,Wheel Alignment,Chris Evans,242.56
+1395,Ford Explorer,2025-05-16,Wheel Alignment,Michael Brown,187.33
+1396,Honda Accord,2025-05-17,Brake Inspection,Peter Jones,325.87
+1397,Ford Ranger,2025-05-18,Tire Rotation,John Doe,153.48
+1398,Subaru Outback,2025-05-19,Transmission Fluid Change,Michael Brown,216.4
+1399,Nissan Titan,2025-05-20,Oil Change,Chris Evans,131.95
+1400,Honda Civic,2025-05-21,Battery Replacement,Robert Johnson,340.78
+1401,Ford F-150,2025-05-22,Fluid Flush,Robert Johnson,442.31
+1402,Ford F-150,2025-05-23,Starter Replacement,Peter Jones,407.74
+1403,Nissan Altima,2025-05-24,Oil Change,Jane Smith,83.5
+1404,Jeep Wrangler,2025-05-25,Starter Replacement,Emily White,345.32
+1405,Toyota RAV4,2025-05-26,Spark Plug Replacement,Jane Smith,422.26
+1406,Ford Explorer,2025-05-27,Tire Rotation,John Doe,478.18
+1407,Honda Pilot,2025-05-28,Headlight Replacement,Emily White,287.14
+1408,Ford F-150,2025-05-29,Transmission Fluid Change,Sarah Davis,136.23
+1409,Honda CR-V,2025-05-30,Brake Pad Replacement,John Doe,488.31
+1410,Ford Explorer,2025-05-31,Brake Inspection,Robert Johnson,68.42
+1411,Tesla Model 3,2025-06-01,Brake Inspection,Jane Smith,341.77
+1412,Ford F-150,2025-06-02,Brake Inspection,Peter Jones,456.25
+1413,Subaru Crosstrek,2025-06-03,Oil Change,Robert Johnson,447.66
+1414,Ram 1500,2025-06-04,Oil Change,David Lee,208.92
+1415,Honda CR-V,2025-06-05,Brake Pad Replacement,Chris Evans,153.79
+1416,Ford Explorer,2025-06-06,Engine Tune-up,Chris Evans,126.23
+1417,Ram 1500,2025-06-07,Battery Replacement,Peter Jones,63.21
+1418,Toyota Camry,2025-06-08,Fluid Flush,Sarah Davis,356.03
+1419,Ford F-150,2025-06-09,Brake Pad Replacement,Sarah Davis,131.36
+1420,Chevrolet Silverado,2025-06-10,Transmission Fluid Change,John Doe,309.25
+1421,Tesla Model 3,2025-06-11,Headlight Replacement,Maria Garcia,307.93
+1422,Ram 1500,2025-06-12,Starter Replacement,Michael Brown,262.74
+1423,Ford Escape,2025-06-13,Brake Pad Replacement,Robert Johnson,339.21
+1424,Toyota Camry,2025-06-14,Brake Pad Replacement,Robert Johnson,75.93
+1425,Honda Accord,2025-06-15,Starter Replacement,Maria Garcia,229.9
+1426,Tesla Model 3,2025-06-16,Spark Plug Replacement,John Doe,89.97
+1427,Nissan Altima,2025-06-17,Headlight Replacement,Michael Brown,473.59
+1428,Tesla Model 3,2025-06-18,Wheel Alignment,John Doe,99.3
+1429,Toyota RAV4,2025-06-19,Battery Replacement,Sarah Davis,175.4
+1430,Subaru Outback,2025-06-20,Transmission Fluid Change,Jane Smith,222.65
+1431,Ford Ranger,2025-06-21,Wheel Alignment,Jane Smith,392.9
+1432,Honda Civic,2025-06-22,Fluid Flush,Emily White,114.62
+1433,Honda CR-V,2025-06-23,Spark Plug Replacement,Jane Smith,135.88
+1434,Ford F-150,2025-06-24,Tire Rotation,Sarah Davis,326.32
+1435,Nissan Titan,2025-06-25,Spark Plug Replacement,Emily White,233.86
+1436,Toyota RAV4,2025-06-26,Engine Tune-up,Emily White,90.86
+1437,Honda Pilot,2025-06-27,Oil Change,Peter Jones,65.21
+1438,Ford Mustang,2025-06-28,Transmission Fluid Change,Chris Evans,427.92
+1439,Jeep Wrangler,2025-06-29,Starter Replacement,Peter Jones,267.62
+1440,Ford Ranger,2025-06-30,Transmission Fluid Change,Sarah Davis,363.09
+1441,Ford Explorer,2025-07-01,Starter Replacement,Maria Garcia,455.46
+1442,Toyota RAV4,2025-07-02,Starter Replacement,Jane Smith,231.17
+1443,Ram 1500,2025-07-03,Battery Replacement,Chris Evans,308.88
+1444,Jeep Wrangler,2025-07-04,Battery Replacement,Maria Garcia,488.3
+1445,Ford Explorer,2025-07-05,Transmission Fluid Change,Robert Johnson,44.99
+1446,Jeep Wrangler,2025-07-06,Tire Rotation,Chris Evans,336.59
+1447,Jeep Wrangler,2025-07-07,Wheel Alignment,Sarah Davis,154.8
+1448,Ford Escape,2025-07-08,Engine Tune-up,David Lee,496.32
+1449,Chevrolet Equinox,2025-07-09,Engine Tune-up,Chris Evans,280.8
+1450,Ford Mustang,2025-07-10,Starter Replacement,Maria Garcia,214.06
+1451,Toyota RAV4,2025-07-11,Starter Replacement,Robert Johnson,153.96
+1452,Ford Ranger,2025-07-12,Fluid Flush,Peter Jones,52.85
+1453,Chevrolet Silverado,2025-07-13,Spark Plug Replacement,David Lee,104.43
+1454,Honda Pilot,2025-07-14,Engine Tune-up,Emily White,209.15
+1455,Toyota Camry,2025-07-15,Brake Inspection,Peter Jones,433.42
+1456,Ford Explorer,2025-07-16,Spark Plug Replacement,Maria Garcia,70.76
+1457,Ford Escape,2025-07-17,Headlight Replacement,Peter Jones,128.36
+1458,Ford Explorer,2025-07-18,Brake Pad Replacement,Robert Johnson,74.08
+1459,Toyota RAV4,2025-07-19,Tire Rotation,Michael Brown,35.02
+1460,Ford Mustang,2025-07-20,Battery Replacement,Sarah Davis,65.04
+1461,Ram 1500,2025-07-21,Tire Rotation,Robert Johnson,112.05
+1462,Chevrolet Equinox,2025-07-22,Engine Tune-up,Emily White,158.65
+1463,Nissan Titan,2025-07-23,Spark Plug Replacement,Sarah Davis,249.91
+1464,Honda Civic,2025-07-24,Transmission Fluid Change,Maria Garcia,163.02
+1465,Ram 1500,2025-07-25,Battery Replacement,Robert Johnson,211.86
+1466,Ford Escape,2025-07-26,Wheel Alignment,Emily White,79.35
+1467,Nissan Altima,2025-07-27,Spark Plug Replacement,John Doe,115.62
+1468,Subaru Outback,2025-07-28,Brake Pad Replacement,John Doe,331.33
+1469,Toyota RAV4,2025-07-29,Spark Plug Replacement,Jane Smith,398.73
+1470,Ford Explorer,2025-07-30,Oil Change,Emily White,481.6
+1471,Honda Pilot,2025-07-31,Fluid Flush,Maria Garcia,422.08
+1472,Ford Ranger,2025-08-01,Brake Pad Replacement,Peter Jones,270.81
+1473,Nissan Titan,2025-08-02,Engine Tune-up,Emily White,443.3
+1474,Chevrolet Equinox,2025-08-03,Fluid Flush,Emily White,334.35
+1475,Honda Pilot,2025-08-04,Wheel Alignment,Jane Smith,333.11
+1476,Nissan Titan,2025-08-05,Fluid Flush,Chris Evans,436.31
+1477,Subaru Outback,2025-08-06,Headlight Replacement,Sarah Davis,131.58
+1478,Honda Civic,2025-08-07,Headlight Replacement,David Lee,95.4
+1479,Ford Mustang,2025-08-08,Starter Replacement,Jane Smith,498.07
+1480,Ford Mustang,2025-08-09,Oil Change,Chris Evans,493.6
+1481,Ford Explorer,2025-08-10,Engine Tune-up,Peter Jones,49.09
+1482,Nissan Titan,2025-08-11,Engine Tune-up,Emily White,114.19
+1483,Ford Ranger,2025-08-12,Oil Change,John Doe,160.86
+1484,Ford Escape,2025-08-13,Starter Replacement,Michael Brown,171.16
+1485,Honda Accord,2025-08-14,Transmission Fluid Change,Peter Jones,180.99
+1486,Honda Civic,2025-08-15,Starter Replacement,Emily White,340.87
+1487,Toyota Camry,2025-08-16,Wheel Alignment,Robert Johnson,46.26
+1488,Subaru Crosstrek,2025-08-17,Tire Rotation,Maria Garcia,206.31
+1489,Toyota RAV4,2025-08-18,Tire Rotation,Maria Garcia,312.05
+1490,Nissan Altima,2025-08-19,Oil Change,Robert Johnson,129.74
+1491,Ford Escape,2025-08-20,Fluid Flush,Sarah Davis,322.6
+1492,Ford Mustang,2025-08-21,Brake Pad Replacement,John Doe,219.46
+1493,Honda Accord,2025-08-22,Transmission Fluid Change,Jane Smith,452.17
+1494,Subaru Outback,2025-08-23,Brake Pad Replacement,Chris Evans,298.79
+1495,Chevrolet Silverado,2025-08-24,Battery Replacement,Chris Evans,44.09
+1496,Ram 1500,2025-08-25,Transmission Fluid Change,Robert Johnson,495.46
+1497,Ford Explorer,2025-08-26,Headlight Replacement,Michael Brown,267.73
+1498,Subaru Crosstrek,2025-08-27,Headlight Replacement,Sarah Davis,213.04
+1499,Nissan Titan,2025-08-28,Tire Rotation,John Doe,67.11
+1500,Jeep Wrangler,2025-08-29,Starter Replacement,Michael Brown,284.05
